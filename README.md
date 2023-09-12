@@ -1,6 +1,6 @@
 # REPO-ENGLISH-FOR-EVERYONE
 
-Este repositorio ha sido creado para utilzar materiales con fines pedagógicos en la **enseñanza-aprendizaje del idioma inglés** y para uso en clases
+Este repositorio ha sido creado para utilzar materiales con fines pedagógicos en la **Enseñanza-aprendizaje del idioma inglés** y para uso en clases
 
 ## Introducción
 
