@@ -1,6 +1,6 @@
-# REPO-ENGLISH-FOR-EVERYONE
+# REPO-SEMANA DE LAS LENGUAS CULTURAS DEL CELE
 
-Este repositorio ha sido creado para utilzar materiales con fines pedagógicos en la **Enseñanza-aprendizaje del idioma inglés** y para uso en clases
+Este repositorio ha sido creado para utilzar materiales con fines pedagógicos en la **Difusión de las lenguas y culturas** que se enseñan en el Centro de Lenguas Extranjeras de la Ujat. 
 
 ## Introducción
 
